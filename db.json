@@ -1,0 +1,23 @@
+{
+  "user": [
+    {
+      "nama": "Eldad",
+      "id": 1
+    }
+  ],
+  "kontak": [
+    {
+      "id": 1,
+      "nama": "John"
+    },
+    {
+      "id": 2,
+      "nama": "Jessica"
+    },
+    {
+      "id": 3,
+      "nama": "Verrent"
+    }
+  ],
+  "pesan": []
+}
