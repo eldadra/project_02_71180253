@@ -44,17 +44,7 @@ export default {
             this.user = data
         },
         kirim() {
-            if(this.pesan) {
-                this.pesan.user = this.pesan;
-                axios
-            .post("http://localhost:3000/pesan", this.pesan)
-            .then(() => {
-                alert("pesan berhasil dikirim")
-            })
-            .catch((err) => console.log(err));
-        } else {
-            alert("pesan gagal dikirim")
-        }
+           
             }
     },
     mounted() {
